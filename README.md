@@ -9,7 +9,7 @@ Edit the `index.html` file in this directory to make the desired changes.
 1. When you've made the changes you want, add a note about what you changed in the "Commit Changes" box and click **Commit Changes**
 1. Changes should be applied to the site within 5 minutes
 
-## Option 2 - Change the HTML code using your own text editoe
+## Option 2 - Change the HTML code using your own text editor
 1. Download index.html <a href=https://raw.githubusercontent.com/triangletm/triangletm.github.io/master/index.html download> by clicking this link</a>
 1. Edit it in your favorite text editor like Notepad (to make the desired changes [Notepad++](https://notepad-plus-plus.org/) is also great for Windows)
 1. Upload index.html to Github using the [upload files](https://github.com/triangletm/triangletm.github.io/upload/master) button. Add a note about what you changed in the "Commit Changes" box and click **Commit Changes**
