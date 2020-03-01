@@ -265,9 +265,10 @@ header.masthead h2 {
   background-color: #004165;
 }
 
+/* 
 a {
   color: #CD202C;
-}
+} */
 
 a:focus, a:hover, a:active {
   color: #772432;
