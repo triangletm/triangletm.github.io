@@ -270,9 +270,9 @@ a {
   color: #CD202C;
 } */
 
-a:focus, a:hover, a:active {
+/* a:focus, a:hover, a:active {
   color: #772432;
-}
+} */
 
 .btn {
   border-width: 2px;
